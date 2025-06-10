@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nutan Singh Yadav</h1>
-<h3 align="center">A passionate Cyber security , AIML Enthusiast & Developer</h3>
+<h3 align="center">A passionate MERN stack developer and AIML Enthusiast </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9b/2f/39/9b2f39bda2a9f24e3c296e3907e2c1be.gif">
 
 
