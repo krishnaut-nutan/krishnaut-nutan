@@ -3,7 +3,6 @@
 Skilled in building scalable web apps with the MERN stack and deploying them using modern cloud tools. Passionate about integrating AI/ML into real-world systems to drive smart, efficient solutions. </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9b/2f/39/9b2f39bda2a9f24e3c296e3907e2c1be.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaut-nutan&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaut-nutan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -23,6 +22,7 @@ Skilled in building scalable web apps with the MERN stack and deploying them usi
 - 📄 Know about my experiences [https://www.linkedin.com/in/nutan-singh-yadav-59734124a/](https://www.linkedin.com/in/nutan-singh-yadav-59734124a/)
 
 - ⚡ Fun fact **Learning , Trying to do better**
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/70/a5/52/70a552e8e955049c8587b2d7606cd6a6.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
