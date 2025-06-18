@@ -103,8 +103,6 @@ Skilled in building scalable web apps with the MERN stack and deploying them usi
 </p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/patreon.com/Newtonislive"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="patreon.com/Newtonislive" /></a><a href="https://ko-fi.com/patreon.com/Newtonislive"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="patreon.com/Newtonislive" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaut-nutan&show_icons=true&locale=en&layout=compact" alt="krishnaut-nutan" /></p>
 
