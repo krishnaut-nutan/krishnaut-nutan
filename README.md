@@ -23,7 +23,7 @@ Skilled in building scalable web apps with the MERN stack and deploying them usi
 
 - ⚡ Fun fact **Learning , Trying to do better**
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/70/a5/52/70a552e8e955049c8587b2d7606cd6a6.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/nutan_rao_2b4062aee769591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nutan_rao_2b4062aee769591" height="30" width="40" /></a>
@@ -103,9 +103,3 @@ Skilled in building scalable web apps with the MERN stack and deploying them usi
 </p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaut-nutan&show_icons=true&locale=en&layout=compact" alt="krishnaut-nutan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnaut-nutan&show_icons=true&locale=en" alt="krishnaut-nutan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaut-nutan&" alt="krishnaut-nutan" /></p>
